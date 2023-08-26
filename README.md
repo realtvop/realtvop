@@ -9,6 +9,7 @@ A stupid student
 * 🌍  I'm based in smb://ty
 * ✉️  You can contact me at [realtvop@proton.me](mailto:realtvop@proton.me)
 * 🚀  I'm currently working on [PhiTogether](http://phitogether.fun)
+* ✈️ You can find me at [Telegram Channel](https://t.me/realtvop)
 * 🧠  I'm learning 语数英物政史物化
 
 <a href="https://www.github.com/realtvop" target="_blank" rel="noreferrer"><img
