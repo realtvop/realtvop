@@ -25,7 +25,7 @@ src="https://img.shields.io/twitter/follow/realtvop?logo=twitter&style=for-the-b
 <b>My GitHub Stats</b>
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=realtvop&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="realtvop's GitHub stats" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=realtvop&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="realtvop's GitHub stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuameshi&layout=compact&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Top Languages" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuameshi&layout=compact&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Top Languages" />
 </div>
