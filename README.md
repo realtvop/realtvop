@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A stupid student
 ----------------
 
-寄
+
 
 * 🌍  I'm based in smb://ty
 * ✉️  You can contact me at [realtvop@proton.me](mailto:realtvop@proton.me)
