@@ -10,7 +10,7 @@ A stupid student
 * ✉️  You can contact me at [realtvop@proton.me](mailto:realtvop@proton.me)
 * 🚀  I'm currently working on [PhiTogether](http://phitogether.fun)
 * ✈️ You can find me at [Telegram Channel](https://t.me/realtvop)
-* 🧠  I'm learning 语数英物政史物化
+* 🧠  I'm learning 语数英物化政史
 
 <a href="https://www.github.com/realtvop" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/realtvop?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/realtvop" target="_blank" rel="noreferrer"><img
