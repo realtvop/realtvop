@@ -11,5 +11,3 @@
    <img src="https://github-readme-stats.vercel.app/api?username=realtvop&layout=compact&show_icons=true&count_private=true"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtvop&layout=compact&show_icons=true&count_private=true" />
 </div>
-
-<script>alert("hello world")</script>
