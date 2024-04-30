@@ -7,7 +7,7 @@ A student from 🇨🇳
 
 
 * 🌍  I'm based in smb://ty
-* ✉️  You can contact me at [realtvop@proton.me](mailto:realtvop@proton.me)
+* ✉️  You can contact me at [contact@realtvop.top](mailto:contact@realtvop.top)
 * 🚀  ~~I'm currently~~ I was recently working on [PhiTogether](http://phitogether.fun)
 * 🚀  I'm currently working on ~~中考复习~~摆烂
 * ✈️ You can find me at [Telegram Channel](https://t.me/realtvop)
