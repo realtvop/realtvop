@@ -6,7 +6,7 @@ A student from 🇨🇳
 
 
 
-* 🌍  I'm based in smb://ty
+* 🌍  I'm based in ~~smb://ty~~
 * ✉️  You can contact me at [contact@realtvop.top](mailto:contact@realtvop.top)
 * 🚀  I'm currently working on [PhiTogether](http://phitogether.fun)
 * 🚀  I'm currently waiting for my 中考成绩. Hope I will be able to go to yyzx.
