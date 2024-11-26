@@ -6,12 +6,11 @@ A student from 🇨🇳
 
 
 
-* 🌍  I'm based in ~~smb://ty~~
+* 🌍  I'm based in ~~smb://ty~~yyzx
 * ✉️  You can contact me at [contact@realtvop.top](mailto:contact@realtvop.top)
 * 🚀  I'm currently working on [PhiTogether](http://phitogether.fun)
-* 🚀  I'm currently waiting for my 中考成绩. Hope I will be able to go to yyzx.
-* ✈️ You can find me at [Telegram Channel](https://t.me/realtvop)
-* 🧠  I'm learning 数英物化
+* ✈️ You can find me at [Telegram Channel](https://t.me/realtvop) and on [X/Twitter](https://x.com/realtvop)
+* 🧠  I'm learning 语数英物化政史生地
 
 <a href="https://www.github.com/realtvop" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/realtvop?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/realtvop" target="_blank" rel="noreferrer"><img
