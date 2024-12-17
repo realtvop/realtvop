@@ -6,7 +6,7 @@ A student from 🇨🇳
 
 
 
-* 🌍  I'm based in ~~smb://ty~~yyzx
+* 🌍  I'm based in yyzx
 * ✉️  You can contact me at [contact@realtvop.top](mailto:contact@realtvop.top)
 * 🚀  I'm currently working on [PhiTogether](http://phitogether.fun)
 * ✈️ You can find me at [Telegram Channel](https://t.me/realtvop) and on [X/Twitter](https://x.com/realtvop)
