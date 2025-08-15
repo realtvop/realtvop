@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is realtvop
 ==========================================================================================================================================
 
-A student from 🇨🇳
+Senior high school student from 🇨🇳
 ----------------
-
-
 
 * 🌍  I'm based in yyzx
 * ✉️  You can contact me at [contact@realtvop.top](mailto:contact@realtvop.top)
 * 🚀  I'm currently working on [PhiTogether](http://phitogether.fun) & [SaltNet](https://salt.realtvop.top)
 * ✈️ You can find me at [Telegram Channel](https://t.me/realtvop) and on [X/Twitter](https://x.com/realtvop)
-* 🧠  I'm learning 语数英物化生
+* 🧠  I'm learning 语数英物化生, so I may have little time developing.
 
 <a href="https://www.github.com/realtvop" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/realtvop?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/realtvop" target="_blank" rel="noreferrer"><img
