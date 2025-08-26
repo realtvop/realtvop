@@ -5,7 +5,7 @@ Senior high school student from 🇨🇳
 ----------------
 
 * 🌍  I'm based in yyzx
-* ✉️  You can contact me at [contact@realtvop.top](mailto:contact@realtvop.top)
+* ✉️  You can contact me at [contact@realtvop.top](mailto:contact@realtvop.top).
 * 🚀  I'm currently working on [PhiTogether](http://phitogether.fun) & [SaltNet](https://salt.realtvop.top)
 * ✈️ You can find me at [Telegram Channel](https://t.me/realtvop) and on [X/Twitter](https://x.com/realtvop)
 * 🧠  I'm learning 语数英物化生, so I may have little time developing.
